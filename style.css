@@ -69,6 +69,6 @@ nav a:hover {
   color: #0056b3
 }
 
-h3#header a:hover {
+header#h3 a:hover {
   text-decoration: underline;
 }
